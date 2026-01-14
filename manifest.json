@@ -1,9 +1,11 @@
 {
   "name": "n8n Trigger Button",
-  "description": "Trigger n8n webhook from Looker",
-  "organization": "Internal",
+  "description": "Trigger n8n webhook from Looker Studio",
+  "organization": "Aldi Internal",
+  "logoUrl": "https://www.gstatic.com/images/branding/product/1x/looker_studio_48dp.png",
   "components": [
     {
+      "componentId": "n8n_button",
       "name": "n8n_button",
       "label": "Run Automation",
       "type": "VISUALIZATION"
