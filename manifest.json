@@ -1,0 +1,12 @@
+{
+  "name": "n8n Trigger Button",
+  "description": "Trigger n8n webhook from Looker",
+  "organization": "Internal",
+  "components": [
+    {
+      "name": "n8n_button",
+      "label": "Run Automation",
+      "type": "VISUALIZATION"
+    }
+  ]
+}
